@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asabea
+Hi ![]I'm Asabea (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
 
 Beginner Developer & Architect
 ------------------------------
 
-I am a practicing Architect & a Creative Business Owner in Ghana with a new found love in Software Engineering. Currently learning to programme with the ALX Software Engineering Programme(Cohort 14).
+I am a practicing Architect & a Creative Business Owner in Ghana with a newfound love for Software Engineering. Currently learning to program with the ALX Software Engineering Programme(Cohort 14).
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [Akosasab@yahoo.com](mailto:Akosasab@yahoo.com)
@@ -39,7 +39,5 @@ src="https://img.shields.io/twitter/follow/asa_bea_?logo=twitter&style=for-the-b
 <a href="http://www.github.com/asa-bea"><img src="https://github-readme-stats.vercel.app/api?username=asa-bea&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=831843&hide_border=true&show_icons=true" alt="asa-bea's GitHub stats" /></a>
 
 <a href="http://www.github.com/asa-bea"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asa-bea&stroke=ffffff&background=831843&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/asa-bea"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=asa-bea&bg_color=831843&color=ffffff&line=ec4899&point=ffffff&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/asa-bea" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asa-bea&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
